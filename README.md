@@ -1,2 +1,0 @@
-# ChupeLupe
-curso xamarin
